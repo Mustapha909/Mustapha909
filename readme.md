@@ -1,4 +1,4 @@
-# Hi there, I'm Mustafa Nouri 👋
+# Hi there, I'm Mustafa Noori 👋
 
 I'm a passionate back-end developer based in Istanbul. I recently completed a comprehensive back-end development course at [Re:coded, where I honed my skills in JavaScript, Node.js, SQL, MongoDB, and test-driven development.
 
@@ -6,7 +6,7 @@ I'm a passionate back-end developer based in Istanbul. I recently completed a co
 
 - **Languages:** JavaScript
 - **Backend:** Node.js
-- **Databases:** SQL, MongoDB
+- **Databases:** SQL, MongoDBhttps://github.com/Mustapha909/Mustapha909/settings
 - **Testing:** Writing tests for reliable and efficient code
 - **Problem Solving:** Love tackling complex challenges and finding elegant solutions
 
